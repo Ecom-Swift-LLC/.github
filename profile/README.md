@@ -8,7 +8,7 @@ Shopify theme design and development, custom apps built on the Admin API and Sho
 
 ## Our apps
 
-**[Sleek Bundles Upsell](https://apps.shopify.com/sleek-bundles-upsell)** - six bundle strategies in one app: Frequently Bought Together, Quantity Breaks, Mix & Match, BOGO, Bundle Kits and Cart Upsell, with discounts applied automatically at checkout through Shopify Functions. Free plan available, 3-day trial on paid plans. Read more in the [sleek-bundles-upsell](https://github.com/Ecom-Swift-LLC/sleek-bundles-upsell) repository, where we also collect feedback from testers.
+**[Sleek Bundles Upsell](https://apps.shopify.com/sleek-bundles-upsell)** - every bundle type a Shopify store needs in one app: Frequently Bought Together, quantity breaks and volume pricing, Mix & Match, Build a Box, BOGO, bundle kits, multipacks, variant and custom bundles, plus product page and cart upsells. Discounts apply automatically at checkout through Shopify Functions. Free plan available, 3-day trial on paid plans. Read more in the [sleek-bundles-upsell](https://github.com/Ecom-Swift-LLC/sleek-bundles-upsell) repository, where we also collect feedback from testers.
 
 ## Open source
 
