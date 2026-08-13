@@ -28,6 +28,7 @@ The repositories here are the tools we reach for on client work, released for ot
 
 - Website: https://www.ecomswiftllc.com/
 - Email: support@ecomswiftllc.com
+- WhatsApp: https://wa.me/16312511767
 - Shopify Partner directory: https://www.shopify.com/partners/directory/partner/waowy
 - Fiverr: https://www.fiverr.com/agencies/EcomSwiftLLC
 - X: https://x.com/ecomswiftllc
