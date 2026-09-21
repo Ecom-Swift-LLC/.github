@@ -10,6 +10,8 @@ Shopify theme design and development, custom apps built on the Admin API and Sho
 
 **[Sleek Bundles Upsell](https://apps.shopify.com/sleek-bundles-upsell)** - every bundle type a Shopify store needs in one app: Frequently Bought Together, quantity breaks and volume pricing, Mix & Match, Build a Box, BOGO, bundle kits, multipacks, variant and custom bundles, plus product page and cart upsells. Discounts apply automatically at checkout through Shopify Functions. Free plan available, 3-day trial on paid plans. Read more in the [sleek-bundles-upsell](https://github.com/Ecom-Swift-LLC/sleek-bundles-upsell) repository, where we also collect feedback from testers.
 
+**[Auditify: CRO & SEO Audit](https://apps.shopify.com/auditify-cro-seo-audit)** - a free, instant audit of any Shopify store across the four things that actually move revenue: SEO, site speed (Core Web Vitals), conversion rate optimization, and AI/LLM visibility (ChatGPT, Perplexity, Google AI). No signup or card needed to see your score, and every finding ships with the specific fix, not just a grade. Also available as a [web tool](https://audit.ecomswiftllc.com?utm_source=github&utm_medium=profile&utm_campaign=auditify) and a [Chrome extension](https://chromewebstore.google.com/detail/cnfpajmcdiglhejgninhkinblebldkhf). Read more in the [auditify](https://github.com/Ecom-Swift-LLC/auditify) repository.
+
 ## Open source
 
 The repositories here are the tools we reach for on client work, released for other Shopify developers to use.
@@ -23,6 +25,7 @@ The repositories here are the tools we reach for on client work, released for ot
 - [shopify-app-starter-remix](https://github.com/Ecom-Swift-LLC/shopify-app-starter-remix) - starter template for embedded apps built with Remix and Polaris.
 - [shopify-order-export-cli](https://github.com/Ecom-Swift-LLC/shopify-order-export-cli) - export orders and line items to CSV from the command line.
 - [shopify-theme-deploy-action](https://github.com/Ecom-Swift-LLC/shopify-theme-deploy-action) - lint and deploy themes straight from GitHub Actions.
+- [shopify-storefront-graphql-examples](https://github.com/Ecom-Swift-LLC/shopify-storefront-graphql-examples) - products, search, collections and the full cart lifecycle against the Storefront GraphQL API.
 
 ## Work with us
 
